@@ -2,7 +2,7 @@ This is a build-from-scratch project for extracting hard skills from job descrip
 
 Here is the project pipeline:
 
-
+![](pics/Skill Extraction Pipeline.jpeg)
 
 Please refer to the jupyter notebook for running examples.
 
